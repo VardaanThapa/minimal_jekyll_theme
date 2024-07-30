@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Vardaan Thapa
+# Project 1
 
-Hello everyone!
+Fraud detection
 
 ## Project 2
 
