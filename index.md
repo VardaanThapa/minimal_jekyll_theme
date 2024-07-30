@@ -14,7 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Fraud detection
 
-https://github.com/VardaanThapa/Data_Science_code
+<a href="https://github.com/VardaanThapa/Data_Science_code">Project link</a>
+
 
 ## Project 2
 
